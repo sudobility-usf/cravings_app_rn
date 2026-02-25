@@ -1,0 +1,22 @@
+{
+  "name": "main",
+  "displayName": "Cravings",
+  "expo": {
+    "name": "Cravings",
+    "slug": "cravings-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sudobility.cravings"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sudobility.cravings"
+    }
+  }
+}
