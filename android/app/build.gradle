@@ -95,9 +95,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.sudobility.starter'
+    namespace 'com.sudobility.cravings'
     defaultConfig {
-        applicationId 'com.sudobility.starter'
+        applicationId 'com.sudobility.cravings'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

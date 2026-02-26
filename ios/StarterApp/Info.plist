@@ -27,7 +27,7 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.sudobility.starter</string>
+          <string>com.sudobility.cravings</string>
         </array>
       </dict>
       <dict>

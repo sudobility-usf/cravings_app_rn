@@ -404,7 +404,7 @@
 					"-lc++",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_DEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sudobility.starter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sudobility.cravings;
 				PRODUCT_NAME = StarterApp;
 				SWIFT_OBJC_BRIDGING_HEADER = "StarterApp/StarterApp-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -436,7 +436,7 @@
 					"-lc++",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_RELEASE";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sudobility.starter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sudobility.cravings;
 				PRODUCT_NAME = StarterApp;
 				SWIFT_OBJC_BRIDGING_HEADER = "StarterApp/StarterApp-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
